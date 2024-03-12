@@ -21,8 +21,3 @@ completion = client.chat.completions.create(
 )
 
 print(completion.choices[0].message)
-git init
-git config user.name "shin0624"
-git config user.email "qjatn147852@naver.com"
-git add *
-git commit -m "some init msg"
