@@ -1,1 +1,3 @@
+//설치한 라이브러리 이름을 작성하는 requirments.txt
 openAI
+LangChain
