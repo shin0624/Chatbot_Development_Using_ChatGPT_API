@@ -11,13 +11,15 @@ OpenAI사의 GPT모델을 활용한 챗봇 개발하기
     8. vscode에서 select python Interpreter 설정(ctrl+shift+P)->venv
 
 # OPEN ai API사용하기(platform.openai.com)
-# 1. API 키 발급
-# 2. 카드등록
+    1. API 키 발급
+    2. 카드등록
 
-#라이브러리관리
-# 1. venv
-# 2. anaconda
-#개발환경구축
-#python -m venv .\venv
+# 라이브러리관리
+    1. venv
+    2. anaconda
+
+# 개발환경구축
+python -m venv .\venv
+
 # .\venv\Scripts\activate
-#pip install openai
+pip install openai
