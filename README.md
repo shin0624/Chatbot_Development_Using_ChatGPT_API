@@ -23,3 +23,5 @@ python -m venv .\venv
 
 # .\venv\Scripts\activate
 pip install openai
+
+# Ctrl + K + F : json파일 이쁘게 정렬
